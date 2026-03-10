@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Caixa Eletrônico</title>
+  </head>
+  <body>
+    <div class="atm">
+      <h2>Caixa Eletrônico</h2>
+
+      <div class="saldo">Saldo: <span id="saldo">R$ 1000</span></div>
+
+      <input type="number" id="valor" placeholder="Digite o valor" />
+
+      <button onclick="sacar()">Sacar</button>
+      <button onclick="depositarPrompt()">Depositar</button>
+
+      <div class="notas">
+        <strong>Notas entregues:</strong>
+        <ul id="listaNotas"></ul>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
