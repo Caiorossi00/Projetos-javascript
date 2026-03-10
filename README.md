@@ -6,8 +6,8 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 ## Lista de Projetos
 
-1. Jokenpô
-2. Simulador de Caixa Eletrônico
+1. [x] Jokenpô
+2. [x] Simulador de Caixa Eletrônico
 3. Jogo da Forca
 4. To-do List (manipulação de DOM)
 5. Jogo da Memória
