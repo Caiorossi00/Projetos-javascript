@@ -6,10 +6,10 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 ## Lista de Projetos
 
-1. [x] Jokenpô
-2. [x] Simulador de Caixa Eletrônico
-3. [x] Jogo da Forca
-4. To-do List (manipulação de DOM)
+1. [x] Jokenpô - (09/03/2026)
+2. [x] Simulador de Caixa Eletrônico - (10/03/2026)
+3. [x] Jogo da Forca - (11/03/2026)
+4. [x] To-do List (manipulação de DOM)- (12/03/2026)
 5. Jogo da Memória
 6. Cronômetro
 7. Buscador de CEP
@@ -18,10 +18,12 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 10. Mini SPA (Single Page Application)
 
 ## Diretrizes de Prática
-* Não utilizar assistentes de IA para programar
-* Evitar copiar soluções prontas
-* Priorizar a resolução independente dos problemas
-  
+
+- Não utilizar assistentes de IA para programar
+- Evitar copiar soluções prontas
+- Priorizar a resolução independente dos problemas
+
 ## Finalidade
 
 Este repositório funciona como um ambiente pessoal de treinamento para recuperar fluência e domínio do JavaScript por meio de prática deliberada e consistente.
+Uma maneira de trazer o código para o dia a dia, dedicando alguns minutos para escrever e pensar sobre código de maneira ativa.
