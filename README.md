@@ -6,8 +6,6 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 ## Lista de Projetos
 
-# 100 Projetos JavaScript (progressão de dificuldade)
-
 1. [x] Jokenpô - (09/03/2026)
 2. [x] Simulador de Caixa Eletrônico - (10/03/2026)
 3. [x] Jogo da Forca - (11/03/2026)
