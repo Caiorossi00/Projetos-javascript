@@ -10,7 +10,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 2. [x] Simulador de Caixa Eletrônico - (10/03/2026)
 3. [x] Jogo da Forca - (11/03/2026)
 4. [x] To-do List (manipulação de DOM)- (12/03/2026)
-5. Jogo da Memória
+5. [x] Jogo da Memória - (13/03/2026)
 6. Cronômetro
 7. Buscador de CEP
 8. Carrinho de Compras
