@@ -11,11 +11,11 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 3. [x] Jogo da Forca - (11/03/2026)
 4. [x] To-do List (manipulação de DOM) - (12/03/2026)
 5. [x] Jogo da Memória - (13/03/2026)
-6. [x] Contador (+ / - / reset) - (14/03/2026)
+6. [x] Contador - (14/03/2026)
 7. [x] Gerador de número aleatório - (14/03/2026)
 8. [x] Conversor de temperatura - (14/03/2026)
 9. [x] Relógio digital - (14/03/2026)
-10. Calculadora simples
+10. [x] Calculadora simples - (14/03/2026)
 11. Gerador de cores HEX
 12. Gerador de senha
 13. Validador de senha
