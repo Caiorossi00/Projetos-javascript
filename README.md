@@ -11,7 +11,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 3. [x] Jogo da Forca - (11/03/2026)
 4. [x] To-do List (manipulação de DOM) - (12/03/2026)
 5. [x] Jogo da Memória - (13/03/2026)
-6. Contador (+ / - / reset)
+6. [x] Contador (+ / - / reset) - (14/03/2026)
 7. Gerador de número aleatório
 8. Conversor de temperatura
 9. Relógio digital
