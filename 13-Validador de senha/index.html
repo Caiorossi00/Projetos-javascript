@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validador de senha</title>
+  </head>
+
+  <style>
+    .erro {
+      color: red;
+    }
+
+    .ok {
+      color: green;
+    }
+  </style>
+  <body>
+    <input type="password" id="senha" placeholder="Digite sua senha" />
+
+    <ul>
+      <li id="tamanho" class="erro">Mínimo de 6 caracteres</li>
+      <li id="numero" class="erro">Pelo menos 1 número</li>
+      <li id="maiuscula" class="erro">Pelo menos 1 letra maiúscula</li>
+      <li id="simbolo" class="erro">Pelo menos 1 símbolo</li>
+    </ul>
+
+    <script src="script.js"></script>
+  </body>
+</html>
