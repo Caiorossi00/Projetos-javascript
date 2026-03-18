@@ -22,7 +22,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 14. [x] Calculadora de IMC - (16/03/2026)
 15. [x] Conversor de moedas - (17/03/2026)
 16. [x] Gerador de frases aleatórias - (18/03/2026)
-17. Jogo de adivinhar número
+17. [x] Jogo de adivinhar número - (18/03/2026)
 18. Simulador de dados (dice roller)
 19. Verificador de palíndromo
 20. Gerador de tabuada
