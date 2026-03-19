@@ -23,7 +23,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 15. [x] Conversor de moedas - (17/03/2026)
 16. [x] Gerador de frases aleatórias - (18/03/2026)
 17. [x] Jogo de adivinhar número - (18/03/2026)
-18. Simulador de dados (dice roller)
+18. [x] Simulador de dados (dice roller) - (19/03/2026)
 19. Verificador de palíndromo
 20. Gerador de tabuada
 
