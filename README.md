@@ -25,7 +25,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 17. [x] Jogo de adivinhar número - (18/03/2026)
 18. [x] Simulador de dados (dice roller) - (19/03/2026)
 19. [x] Verificador de palíndromo - (19/03/2026)
-20. Gerador de tabuada
+20. [x] Gerador de tabuada - (19/03/2026)
 
 21. Filtro de lista em tempo real
 22. Validador de formulário
