@@ -31,7 +31,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 22. [x] Validador de formulário - (20/03/2026)
 23. [x] Tabs interativas - (21/03/2026)
 24. [x] Accordion (FAQ expansível) - (23/03/2026)
-25. Slider de imagens
+25. [x] Slider de imagens - (24/03/2026)
 
 26. Galeria de imagens com modal
 27. Dark mode toggle
