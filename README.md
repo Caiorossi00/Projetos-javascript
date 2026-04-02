@@ -40,8 +40,8 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 30. [x] Sistema de notificações - (29/03/2026)
 
 31. [x] Sistema de comentários - (29/03/2026)
-32. [x] Ranking de pontuação - (29/03/2026)
-33. Quiz simples
+32. [x] Ranking de pontuação - (01/04/2026)
+33. [x] Quiz simples - (02/04/2026)
 34. Quiz com pontuação
 35. Quiz com ranking
 
